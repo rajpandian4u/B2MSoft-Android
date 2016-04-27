@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radio_check.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable-ldpi\\radio_check.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\pOS1\\LibRecognizer\\unspecified\\res\\drawable-ldpi\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\B2MSoft-Android\\LibRecognizer\\unspecified\\res\\drawable-ldpi\\lighton.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\pOS1\\LibRecognizer\\unspecified\\res\\drawable-ldpi\\lighton.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radio_uncheck.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable-ldpi\\radio_uncheck.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radio_uncheck.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable-ldpi\\radio_uncheck.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radio_check.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable-ldpi\\radio_check.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\B2MSoft-Android\\LibRecognizer\\unspecified\\res\\drawable-ldpi\\lightoff.png"
+    }
+]

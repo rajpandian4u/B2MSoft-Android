@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#ffffff">
+
+    <FrameLayout
+        android:id="@+id/centerframe"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="50dp"
+        android:background="#ffffff"
+        android:layout_marginRight="50dp" >
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_gravity="top"
+            android:background="@drawable/blackborder2"
+            android:ems="10"
+            android:hint="User Name"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:textColorHint="#a5a3a3"
+            android:textSize="24sp" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="2dp"
+            android:background="@drawable/blackborder2"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:textColorHint="#a5a3a3"
+            android:textSize="24sp" >
+        </EditText>
+    </FrameLayout>
+    <TextView
+        android:id="@+id/dummybtn2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_above="@+id/centerframe"
+        android:background="#ffffff"
+        android:clickable="false" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/dummybtn2"
+        android:background="#30aee9" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/text_date"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:padding="3dp"
+                android:text="Date"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp" />
+
+            <DigitalClock
+                android:id="@+id/digital_clock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="#ffffff" />
+           
+        </LinearLayout>
+
+        <TextView android:id="@+id/title"
+           android:layout_width="270dp"
+            android:layout_height="110dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/logo" />
+        
+        <TextView android:id="@+id/logintitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:text="Login"
+            android:textSize="32sp"
+            android:textColor="#FFFFFF" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/dummybtn1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/centerframe"
+        android:background="#ffffff"
+        android:clickable="false" />
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/dummybtn1"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:background="#30aee9"
+        android:text="Login"
+        android:textSize="28sp"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/btnforgot"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/btnlogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:background="@null"
+        android:textSize="24sp"
+        android:text="Forgot Password"
+        android:textColor="#30aee9" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/btnforgot"
+        android:background="#e8e8e8"
+        android:gravity="bottom" >
+
+       <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:background="#cccccc"
+                android:gravity="center" />
+            
+            <TextView android:id="@+id/location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:textSize="24sp"
+                android:gravity="center"
+                android:drawableLeft="@drawable/geoicon30"
+                android:textColor="#666666"
+                android:text="Columbus, United States"/>
+            
+            <LinearLayout
+                android:id="@+id/cur_temp_layout"
+                android:layout_width="150dp"
+                android:layout_height="100dp"                
+	            android:layout_gravity="left" 
+                android:orientation="horizontal"
+                android:layout_marginTop="2dp"
+                android:weightSum="2" >
+	            
+	            <TextView
+	                android:id="@+id/celcius"
+	                android:layout_width="0dp"	                
+	                android:layout_weight="1"
+	                android:layout_height="match_parent"
+	                android:gravity="center"               
+	                android:textAppearance="?android:attr/textAppearanceLarge"
+	                android:layout_margin="2dp"
+	                android:textColor="#30aee9"/>
+	            
+	            <ImageView
+	                android:id="@+id/celcius_img"
+	                android:layout_width="0dp"
+	                android:layout_weight="1"
+	                android:layout_height="match_parent"
+	                android:gravity="center"               
+	                android:layout_margin="2dp"
+	                android:contentDescription="@string/app_name"/>
+	        
+	         </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/sunny"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_gravity="right"
+                android:orientation="vertical"
+                android:layout_marginTop="2dp"
+                android:weightSum="2" >
+                
+                <TextView
+	                android:id="@+id/predicted_temp"
+	                android:layout_width="match_parent"
+	                android:layout_height="0dp"
+	                android:textAppearance="?android:attr/textAppearanceLarge"
+	                android:layout_weight="1"
+	                android:layout_gravity="center"
+	                android:layout_marginTop="2dp"
+	                android:textColor="#30aee9"/>
+                
+                <TextView
+	                android:id="@+id/condition"
+	                android:layout_width="match_parent"
+	                android:layout_height="0dp"
+	                android:layout_weight="1"
+	                android:layout_gravity="center"
+	                android:textAppearance="?android:attr/textAppearanceSmall"
+	                android:layout_marginTop="2dp"
+	                android:textColor="#aaa"/>
+           
+            </LinearLayout>
+            
+        </FrameLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

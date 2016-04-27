@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\celcius.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\celcius.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\geoicon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\button3.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\rbtn_selector.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\rbtn_selector.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\B2MSoft-Android\\LibRecognizer\\unspecified\\res\\drawable\\rounded_border.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon30.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\pdficon30.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\weather.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder4.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\blackborder4.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder3.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\blackborder3.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\sunny.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\sunny.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\sunny.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\sunny.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\drive.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\drive.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\drive.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\drive.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon20.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\geoicon20.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder2.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\blackborder2.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder4.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\blackborder4.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon25.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\pdficon25.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon30.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\geoicon30.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\photopay_button.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\B2MSoft-Android\\LibRecognizer\\unspecified\\res\\drawable\\photopay_button.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\imageback1.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\imageback1.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\success.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_icon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\border1.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_1.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\logo_1.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\weather.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\button3.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\imageback.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\imageback.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder1.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\blackborder1.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon30.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\pdficon30.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder2.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\blackborder2.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\pdficon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\imageback1.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\imageback1.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_1.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\logo_1.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\photopay_button.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\pOS1\\LibRecognizer\\unspecified\\res\\drawable\\photopay_button.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\rbtn_selector.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\rbtn_selector.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_icon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon20.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\geoicon20.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\imageback.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\imageback.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon25.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\pdficon25.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\border1.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\pdficon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\pdficon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder3.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\blackborder3.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon30.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\geoicon30.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\blackborder1.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\blackborder1.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\geoicon.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\geoicon.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\celcius.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\celcius.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\pOS1\\LibRecognizer\\unspecified\\res\\drawable\\rounded_border.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\success.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\src\\main\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    }
+]

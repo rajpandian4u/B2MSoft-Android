@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\B2MSoft-Android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "C:\\Rajesh\\Projects\\B2MSoft\\Workspace\\Android\\pOS1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout-v11\\abc_screen_content_include.xml"
+    }
+]

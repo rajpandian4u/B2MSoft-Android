@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7f6f2" >
+
+    <RelativeLayout
+        android:id="@+id/lay1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#30aee9" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/text_date"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:padding="3dp"
+                android:text="Date"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp" />
+
+            <DigitalClock
+                android:id="@+id/digital_clock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff" 
+                android:textSize="22sp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="MEDS"
+            android:textColor="#FFFFFF"
+            android:textSize="28sp" />
+
+        <ImageView
+            android:id="@+id/profileimage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/user" />
+
+        <TextView
+            android:id="@+id/welcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/profileimage"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/profileimage"
+            android:text="Welcome!"
+            android:textColor="#FFFFFF"
+            android:textSize="26sp" />
+
+        <TextView
+            android:id="@+id/profilename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/profileimage"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/profileimage"
+            android:text="Ms.Lara Croft"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/lay1" >
+
+        <TextView
+            android:id="@+id/personaltext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:text="PRIMARY DETAILS"
+            android:textColor="#b3b3b3"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:id="@+id/linlay1"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_below="@+id/personaltext"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/blackborder3"
+            android:orientation="vertical"
+            android:weightSum="4" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginTop="2dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="2" >
+
+                    <TextView
+                        android:id="@+id/patientid"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.1"
+                        android:background="@drawable/border1"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="Patient ID"
+                        android:textColor="#666666"
+                        android:textSize="19sp" />
+
+                    <EditText
+                        android:id="@+id/patientidedit"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.9"
+                        android:background="@drawable/border2"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="15dp"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textSize="19sp" >
+                    </EditText>
+                </LinearLayout>
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="2" >
+
+                    <TextView
+                        android:id="@+id/firstname"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.1"
+                        android:background="@drawable/border1"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="First Name"
+                        android:textColor="#666666"
+                        android:textSize="19sp" />
+
+                    <EditText
+                        android:id="@+id/firstnameedit"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.9"
+                        android:background="@drawable/border2"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="15dp"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textSize="19sp" >
+                    </EditText>
+                </LinearLayout>
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="2" >
+
+                    <TextView
+                        android:id="@+id/middlename"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.1"
+                        android:background="@drawable/border1"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="Middle Name"
+                        android:textColor="#666666"
+                        android:textSize="19sp" />
+
+                    <EditText
+                        android:id="@+id/middlenameedit"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.9"
+                        android:background="@drawable/border2"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="15dp"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textSize="19sp" >
+                    </EditText>
+                </LinearLayout>
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="2dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="2" >
+
+                    <TextView
+                        android:id="@+id/lastname"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.1"
+                        android:background="@drawable/border1"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:text="Last Name"
+                        android:textColor="#666666"
+                        android:textSize="19sp" />
+
+                    <EditText
+                        android:id="@+id/lastnameedit"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.9"
+                        android:background="@drawable/border2"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:inputType="textPersonName"
+                        android:paddingLeft="15dp"
+                        android:singleLine="true"
+                        android:textColor="#000000"
+                        android:textSize="19sp" >
+                    </EditText>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/contacttext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linlay1"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:text="OTHER DETAILS"
+            android:textColor="#b3b3b3"
+            android:textSize="22sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/bottomlay"
+            android:layout_below="@+id/contacttext"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/blackborder3" >
+
+            <include layout="@layout/xxxx" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bottomlay"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="2" >
+                
+
+                <Button
+                    android:id="@+id/cancel"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="#576380"
+                    android:text="Cancel"
+                    android:textColor="#FFFFFF"
+                    android:textSize="28sp" />
+
+                <Button
+                    android:id="@+id/proceed"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="#30aee9"
+                    android:text="Proceed"
+                    android:textColor="#FFFFFF"
+                    android:textSize="28sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
